@@ -1,0 +1,1 @@
+export default function App(){return <div style={{background:'#0f1117',color:'#fff',minHeight:'100vh',padding:'30px'}}><h1>VK Trade X ELITE</h1><p>Premium Dashboard Same Upstox Feel</p><div style={{marginTop:'20px'}}>Signals • Orders • P&L • Approval Queue</div></div>}

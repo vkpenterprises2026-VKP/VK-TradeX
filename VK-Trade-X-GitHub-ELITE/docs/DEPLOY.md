@@ -1,0 +1,1 @@
+Deploy frontend to Vercel/Netlify and backend to Hostinger VPS.
